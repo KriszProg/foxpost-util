@@ -15,4 +15,11 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
+  <distributionManagement>
+    <repository>
+      <id>github</id>
+      <url>https://maven.pkg.github.com/KriszProg/foxpost-util</url>
+    </repository>
+  </distributionManagement>
+
 </project>
